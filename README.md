@@ -11,4 +11,4 @@ I'm currently a university student passionate about digital signal processing an
 - Exploring new languages and programming tools.
 
 ## Fun Fact
-- I enjoy [favorite hobby], and when I’m not coding, you can usually find me doing [other activity].
+- I enjoy programming, and when I’m not coding, you can usually find me doing training in gym.
